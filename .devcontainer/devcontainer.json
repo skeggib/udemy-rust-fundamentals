@@ -21,7 +21,8 @@
 				"Swellaby.vscode-rust-test-adapter",
 				"bungcip.better-toml",
 				"Gruntfuggly.todo-tree",
-				"vadimcn.vscode-lldb"
+				"vadimcn.vscode-lldb",
+				"serayuzgur.crates"
 			]
 		}
 	}
